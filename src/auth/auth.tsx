@@ -5,4 +5,4 @@ const slice=createSlice({
     initialState:{},
     reducers:{}
 })
-const auth = slice.reducer
+export const auth = slice.reducer
